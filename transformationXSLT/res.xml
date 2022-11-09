@@ -1,0 +1,285 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE liste-présidents
+  SYSTEM "res.dtd">
+<liste-présidents>
+   <président nom="Charles de Gaulle">
+      <pays nom="Afrique du Sud" durée="0"/>
+      <pays nom="Algérie" durée="P21D"/>
+      <pays nom="Angola" durée="0"/>
+      <pays nom="Burkina Faso" durée="P1D" franchophone="Officiel"/>
+      <pays nom="Burundi" durée="0" franchophone="Officiel"/>
+      <pays nom="Bénin" durée="0" franchophone="Officiel"/>
+      <pays nom="Cameroun" durée="0" franchophone="Officiel"/>
+      <pays nom="Comores" durée="P10D"/>
+      <pays nom="Congo" durée="P2D" franchophone="Officiel"/>
+      <pays nom="Côte d'Ivoire" durée="P2D" franchophone="Officiel"/>
+      <pays nom="Djibouti" durée="P16D"/>
+      <pays nom="Gabon" durée="0" franchophone="En-partie"/>
+      <pays nom="Guinée" durée="P2D"/>
+      <pays nom="Guinée-Bissau" durée="0"/>
+      <pays nom="Kenya" durée="0"/>
+      <pays nom="Libye" durée="0"/>
+      <pays nom="Madagascar" durée="P12D"/>
+      <pays nom="Mali" durée="0" franchophone="Officiel"/>
+      <pays nom="Maroc" durée="0" franchophone="Officiel"/>
+      <pays nom="Mauritanie" durée="0" franchophone="Officiel"/>
+      <pays nom="Mozambique" durée="0"/>
+      <pays nom="Namibie" durée="0"/>
+      <pays nom="Niger" durée="0" franchophone="Officiel"/>
+      <pays nom="Nigéria" durée="0"/>
+      <pays nom="Rwanda" durée="0" franchophone="Officiel"/>
+      <pays nom="République Centrafricaine" durée="0" franchophone="Officiel"/>
+      <pays nom="République Démocratique du Congo"
+            durée="0"
+            franchophone="Officiel"/>
+      <pays nom="Seychelles" durée="0" franchophone="Officiel"/>
+      <pays nom="Soudan" durée="0"/>
+      <pays nom="Sénégal" durée="P1D" franchophone="Officiel"/>
+      <pays nom="Tchad" durée="0"/>
+      <pays nom="Togo" durée="0" franchophone="Officiel"/>
+      <pays nom="Tunisie" durée="0" franchophone="Officiel"/>
+      <pays nom="Égypte" durée="0"/>
+      <pays nom="Éthiopie" durée="P6D"/>
+      <pays nom="Île Maurice" durée="0"/>
+   </président>
+   <président nom="François Mitterrand">
+      <pays nom="Afrique du Sud" durée="P2D"/>
+      <pays nom="Algérie" durée="P7D"/>
+      <pays nom="Angola" durée="0"/>
+      <pays nom="Burkina Faso" durée="P5D" franchophone="Officiel"/>
+      <pays nom="Burundi" durée="P2D" franchophone="Officiel"/>
+      <pays nom="Bénin" durée="P7D" franchophone="Officiel"/>
+      <pays nom="Cameroun" durée="P3D" franchophone="Officiel"/>
+      <pays nom="Comores" durée="P4D"/>
+      <pays nom="Congo" durée="P2D" franchophone="Officiel"/>
+      <pays nom="Côte d'Ivoire" durée="P7D" franchophone="Officiel"/>
+      <pays nom="Djibouti" durée="P4D"/>
+      <pays nom="Gabon" durée="P7D" franchophone="En-partie"/>
+      <pays nom="Guinée" durée="P5D"/>
+      <pays nom="Guinée-Bissau" durée="P1D"/>
+      <pays nom="Kenya" durée="0"/>
+      <pays nom="Libye" durée="0"/>
+      <pays nom="Madagascar" durée="P4D"/>
+      <pays nom="Mali" durée="P6D" franchophone="Officiel"/>
+      <pays nom="Maroc" durée="P11D" franchophone="Officiel"/>
+      <pays nom="Mauritanie" durée="P2D" franchophone="Officiel"/>
+      <pays nom="Mozambique" durée="0"/>
+      <pays nom="Namibie" durée="0"/>
+      <pays nom="Niger" durée="P4D" franchophone="Officiel"/>
+      <pays nom="Nigéria" durée="0"/>
+      <pays nom="Rwanda" durée="P63D" franchophone="Officiel"/>
+      <pays nom="République Centrafricaine" durée="P2D" franchophone="Officiel"/>
+      <pays nom="République Démocratique du Congo"
+            durée="P66D"
+            franchophone="Officiel"/>
+      <pays nom="Seychelles" durée="P4D" franchophone="Officiel"/>
+      <pays nom="Soudan" durée="0"/>
+      <pays nom="Sénégal" durée="P4D" franchophone="Officiel"/>
+      <pays nom="Tchad" durée="0"/>
+      <pays nom="Togo" durée="P6D" franchophone="Officiel"/>
+      <pays nom="Tunisie" durée="P10D" franchophone="Officiel"/>
+      <pays nom="Égypte" durée="P6D"/>
+      <pays nom="Éthiopie" durée="0"/>
+      <pays nom="Île Maurice" durée="P4D"/>
+   </président>
+   <président nom="Georges Pompidou">
+      <pays nom="Afrique du Sud" durée="0"/>
+      <pays nom="Algérie" durée="0"/>
+      <pays nom="Angola" durée="0"/>
+      <pays nom="Burkina Faso" durée="P5D" franchophone="Officiel"/>
+      <pays nom="Burundi" durée="0" franchophone="Officiel"/>
+      <pays nom="Bénin" durée="0" franchophone="Officiel"/>
+      <pays nom="Cameroun" durée="P3D" franchophone="Officiel"/>
+      <pays nom="Comores" durée="0"/>
+      <pays nom="Congo" durée="0" franchophone="Officiel"/>
+      <pays nom="Côte d'Ivoire" durée="P3D" franchophone="Officiel"/>
+      <pays nom="Djibouti" durée="P10D"/>
+      <pays nom="Gabon" durée="P3D" franchophone="En-partie"/>
+      <pays nom="Guinée" durée="0"/>
+      <pays nom="Guinée-Bissau" durée="0"/>
+      <pays nom="Kenya" durée="0"/>
+      <pays nom="Libye" durée="0"/>
+      <pays nom="Madagascar" durée="0"/>
+      <pays nom="Mali" durée="0" franchophone="Officiel"/>
+      <pays nom="Maroc" durée="0" franchophone="Officiel"/>
+      <pays nom="Mauritanie" durée="P3D" franchophone="Officiel"/>
+      <pays nom="Mozambique" durée="0"/>
+      <pays nom="Namibie" durée="0"/>
+      <pays nom="Niger" durée="P3D" franchophone="Officiel"/>
+      <pays nom="Nigéria" durée="0"/>
+      <pays nom="Rwanda" durée="0" franchophone="Officiel"/>
+      <pays nom="République Centrafricaine" durée="0" franchophone="Officiel"/>
+      <pays nom="République Démocratique du Congo"
+            durée="0"
+            franchophone="Officiel"/>
+      <pays nom="Seychelles" durée="0" franchophone="Officiel"/>
+      <pays nom="Soudan" durée="0"/>
+      <pays nom="Sénégal" durée="P3D" franchophone="Officiel"/>
+      <pays nom="Tchad" durée="P3D"/>
+      <pays nom="Togo" durée="P5D" franchophone="Officiel"/>
+      <pays nom="Tunisie" durée="0" franchophone="Officiel"/>
+      <pays nom="Égypte" durée="0"/>
+      <pays nom="Éthiopie" durée="P5D"/>
+      <pays nom="Île Maurice" durée="0"/>
+   </président>
+   <président nom="Jacques Chirac">
+      <pays nom="Afrique du Sud" durée="P6D"/>
+      <pays nom="Algérie" durée="P5D"/>
+      <pays nom="Angola" durée="P3D"/>
+      <pays nom="Burkina Faso" durée="0" franchophone="Officiel"/>
+      <pays nom="Burundi" durée="0" franchophone="Officiel"/>
+      <pays nom="Bénin" durée="0" franchophone="Officiel"/>
+      <pays nom="Cameroun" durée="P5D" franchophone="Officiel"/>
+      <pays nom="Comores" durée="0"/>
+      <pays nom="Congo" durée="P4D" franchophone="Officiel"/>
+      <pays nom="Côte d'Ivoire" durée="P2D" franchophone="Officiel"/>
+      <pays nom="Djibouti" durée="0"/>
+      <pays nom="Gabon" durée="0" franchophone="En-partie"/>
+      <pays nom="Guinée" durée="P5D"/>
+      <pays nom="Guinée-Bissau" durée="0"/>
+      <pays nom="Kenya" durée="0"/>
+      <pays nom="Libye" durée="0"/>
+      <pays nom="Madagascar" durée="P4D"/>
+      <pays nom="Mali" durée="P7D" franchophone="Officiel"/>
+      <pays nom="Maroc" durée="P6D" franchophone="Officiel"/>
+      <pays nom="Mauritanie" durée="P2D" franchophone="Officiel"/>
+      <pays nom="Mozambique" durée="P2D"/>
+      <pays nom="Namibie" durée="P3D"/>
+      <pays nom="Niger" durée="P4D" franchophone="Officiel"/>
+      <pays nom="Nigéria" durée="P5D"/>
+      <pays nom="Rwanda" durée="0" franchophone="Officiel"/>
+      <pays nom="République Centrafricaine" durée="0" franchophone="Officiel"/>
+      <pays nom="République Démocratique du Congo"
+            durée="0"
+            franchophone="Officiel"/>
+      <pays nom="Seychelles" durée="0" franchophone="Officiel"/>
+      <pays nom="Soudan" durée="0"/>
+      <pays nom="Sénégal" durée="P4D" franchophone="Officiel"/>
+      <pays nom="Tchad" durée="P1D"/>
+      <pays nom="Togo" durée="P5D" franchophone="Officiel"/>
+      <pays nom="Tunisie" durée="P7D" franchophone="Officiel"/>
+      <pays nom="Égypte" durée="P8D"/>
+      <pays nom="Éthiopie" durée="0"/>
+      <pays nom="Île Maurice" durée="0"/>
+   </président>
+   <président nom="René Coty">
+      <pays nom="Afrique du Sud" durée="0"/>
+      <pays nom="Algérie" durée="0"/>
+      <pays nom="Angola" durée="0"/>
+      <pays nom="Burkina Faso" durée="0" franchophone="Officiel"/>
+      <pays nom="Burundi" durée="0" franchophone="Officiel"/>
+      <pays nom="Bénin" durée="0" franchophone="Officiel"/>
+      <pays nom="Cameroun" durée="0" franchophone="Officiel"/>
+      <pays nom="Comores" durée="0"/>
+      <pays nom="Congo" durée="0" franchophone="Officiel"/>
+      <pays nom="Côte d'Ivoire" durée="0" franchophone="Officiel"/>
+      <pays nom="Djibouti" durée="0"/>
+      <pays nom="Gabon" durée="0" franchophone="En-partie"/>
+      <pays nom="Guinée" durée="0"/>
+      <pays nom="Guinée-Bissau" durée="0"/>
+      <pays nom="Kenya" durée="0"/>
+      <pays nom="Libye" durée="0"/>
+      <pays nom="Madagascar" durée="0"/>
+      <pays nom="Mali" durée="0" franchophone="Officiel"/>
+      <pays nom="Maroc" durée="0" franchophone="Officiel"/>
+      <pays nom="Mauritanie" durée="0" franchophone="Officiel"/>
+      <pays nom="Mozambique" durée="0"/>
+      <pays nom="Namibie" durée="0"/>
+      <pays nom="Niger" durée="0" franchophone="Officiel"/>
+      <pays nom="Nigéria" durée="0"/>
+      <pays nom="Rwanda" durée="0" franchophone="Officiel"/>
+      <pays nom="République Centrafricaine" durée="0" franchophone="Officiel"/>
+      <pays nom="République Démocratique du Congo"
+            durée="0"
+            franchophone="Officiel"/>
+      <pays nom="Seychelles" durée="0" franchophone="Officiel"/>
+      <pays nom="Soudan" durée="0"/>
+      <pays nom="Sénégal" durée="0" franchophone="Officiel"/>
+      <pays nom="Tchad" durée="0"/>
+      <pays nom="Togo" durée="0" franchophone="Officiel"/>
+      <pays nom="Tunisie" durée="0" franchophone="Officiel"/>
+      <pays nom="Égypte" durée="0"/>
+      <pays nom="Éthiopie" durée="0"/>
+      <pays nom="Île Maurice" durée="0"/>
+   </président>
+   <président nom="Valéry Giscard d'Estaing">
+      <pays nom="Afrique du Sud" durée="0"/>
+      <pays nom="Algérie" durée="P12D"/>
+      <pays nom="Angola" durée="0"/>
+      <pays nom="Burkina Faso" durée="0" franchophone="Officiel"/>
+      <pays nom="Burundi" durée="0" franchophone="Officiel"/>
+      <pays nom="Bénin" durée="0" franchophone="Officiel"/>
+      <pays nom="Cameroun" durée="P4D" franchophone="Officiel"/>
+      <pays nom="Comores" durée="0"/>
+      <pays nom="Congo" durée="0" franchophone="Officiel"/>
+      <pays nom="Côte d'Ivoire" durée="P6D" franchophone="Officiel"/>
+      <pays nom="Djibouti" durée="0"/>
+      <pays nom="Gabon" durée="P4D" franchophone="En-partie"/>
+      <pays nom="Guinée" durée="P3D"/>
+      <pays nom="Guinée-Bissau" durée="0"/>
+      <pays nom="Kenya" durée="0"/>
+      <pays nom="Libye" durée="0"/>
+      <pays nom="Madagascar" durée="0"/>
+      <pays nom="Mali" durée="P1D" franchophone="Officiel"/>
+      <pays nom="Maroc" durée="P4D" franchophone="Officiel"/>
+      <pays nom="Mauritanie" durée="0" franchophone="Officiel"/>
+      <pays nom="Mozambique" durée="0"/>
+      <pays nom="Namibie" durée="0"/>
+      <pays nom="Niger" durée="0" franchophone="Officiel"/>
+      <pays nom="Nigéria" durée="0"/>
+      <pays nom="Rwanda" durée="P1D" franchophone="Officiel"/>
+      <pays nom="République Centrafricaine" durée="P4D" franchophone="Officiel"/>
+      <pays nom="République Démocratique du Congo"
+            durée="P3D"
+            franchophone="Officiel"/>
+      <pays nom="Seychelles" durée="0" franchophone="Officiel"/>
+      <pays nom="Soudan" durée="P1D"/>
+      <pays nom="Sénégal" durée="P5D" franchophone="Officiel"/>
+      <pays nom="Tchad" durée="0"/>
+      <pays nom="Togo" durée="0" franchophone="Officiel"/>
+      <pays nom="Tunisie" durée="P3D" franchophone="Officiel"/>
+      <pays nom="Égypte" durée="P6D"/>
+      <pays nom="Éthiopie" durée="0"/>
+      <pays nom="Île Maurice" durée="0"/>
+   </président>
+   <président nom="Vincent Auriol">
+      <pays nom="Afrique du Sud" durée="0"/>
+      <pays nom="Algérie" durée="P5D"/>
+      <pays nom="Angola" durée="0"/>
+      <pays nom="Burkina Faso" durée="0" franchophone="Officiel"/>
+      <pays nom="Burundi" durée="0" franchophone="Officiel"/>
+      <pays nom="Bénin" durée="0" franchophone="Officiel"/>
+      <pays nom="Cameroun" durée="0" franchophone="Officiel"/>
+      <pays nom="Comores" durée="0"/>
+      <pays nom="Congo" durée="0" franchophone="Officiel"/>
+      <pays nom="Côte d'Ivoire" durée="0" franchophone="Officiel"/>
+      <pays nom="Djibouti" durée="0"/>
+      <pays nom="Gabon" durée="0" franchophone="En-partie"/>
+      <pays nom="Guinée" durée="0"/>
+      <pays nom="Guinée-Bissau" durée="0"/>
+      <pays nom="Kenya" durée="0"/>
+      <pays nom="Libye" durée="0"/>
+      <pays nom="Madagascar" durée="0"/>
+      <pays nom="Mali" durée="0" franchophone="Officiel"/>
+      <pays nom="Maroc" durée="0" franchophone="Officiel"/>
+      <pays nom="Mauritanie" durée="0" franchophone="Officiel"/>
+      <pays nom="Mozambique" durée="0"/>
+      <pays nom="Namibie" durée="0"/>
+      <pays nom="Niger" durée="0" franchophone="Officiel"/>
+      <pays nom="Nigéria" durée="0"/>
+      <pays nom="Rwanda" durée="0" franchophone="Officiel"/>
+      <pays nom="République Centrafricaine" durée="0" franchophone="Officiel"/>
+      <pays nom="République Démocratique du Congo"
+            durée="0"
+            franchophone="Officiel"/>
+      <pays nom="Seychelles" durée="0" franchophone="Officiel"/>
+      <pays nom="Soudan" durée="0"/>
+      <pays nom="Sénégal" durée="0" franchophone="Officiel"/>
+      <pays nom="Tchad" durée="0"/>
+      <pays nom="Togo" durée="0" franchophone="Officiel"/>
+      <pays nom="Tunisie" durée="0" franchophone="Officiel"/>
+      <pays nom="Égypte" durée="0"/>
+      <pays nom="Éthiopie" durée="0"/>
+      <pays nom="Île Maurice" durée="0"/>
+   </président>
+</liste-présidents>
