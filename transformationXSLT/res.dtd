@@ -1,0 +1,13 @@
+<?xml encoding="UTF-8"?>
+
+<!ELEMENT liste-présidents (président)+>
+
+<!ELEMENT président (pays)+>
+<!ATTLIST président
+  nom CDATA #REQUIRED>
+
+<!ELEMENT pays EMPTY>
+<!ATTLIST pays
+  durée NMTOKEN #REQUIRED
+  franchophone (En-partie|Officiel) #IMPLIED
+  nom CDATA #REQUIRED>
