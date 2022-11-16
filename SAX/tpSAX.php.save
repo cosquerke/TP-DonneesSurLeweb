@@ -1,0 +1,27 @@
+<?php
+	header('Content-type: text/plain');
+	include('Sax4PHP/Sax4php.php');
+
+	class nbl_sax2 extends DefaultHandler {
+		public $nb;
+		function startDocument() {$this->nb = 0;}
+		function endDocument() {echo $this->nb;}
+
+		function startElement($nom, $att) {
+			switch($nom){
+				case "
+
+
+		}
+	}
+	
+	$fic = file_get_contents('ex_asimov.xml');
+	try {
+		$nbl = new nbl_sax2();
+		$sax = new SaxParser($nbl);
+		$sax->parse($fic);
+	}catch(SAXException $e){
+		echo $e;
+	}
+
+ ?>
