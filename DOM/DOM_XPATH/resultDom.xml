@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<liste-présidents>
+  <président nom="Charles de Gaulle">
+    <pays duree="0" nom="Afrique du Sud"/>
+    <pays duree="P14D" francophone="Partiel" nom="Algérie"/>
+    <pays duree="0" nom="Angola"/>
+    <pays duree="0" francophone="Partiel" nom="Burkina Faso"/>
+    <pays duree="0" francophone="Partiel" nom="Burundi"/>
+    <pays duree="0" francophone="Partiel" nom="Bénin"/>
+    <pays duree="0" francophone="Partiel" nom="Cameroun"/>
+    <pays duree="P9D" nom="Comores"/>
+    <pays duree="P1D" francophone="Partiel" nom="Congo"/>
+    <pays duree="P1D" francophone="Partiel" nom="Côte d'Ivoire"/>
+    <pays duree="P14D" francophone="Partiel" nom="Djibouti"/>
+    <pays duree="0" francophone="Officiel" nom="Gabon"/>
+    <pays duree="P1D" francophone="Partiel" nom="Guinée"/>
+    <pays duree="0" nom="Guinée-Bissau"/>
+    <pays duree="0" nom="Kenya"/>
+    <pays duree="0" nom="Libye"/>
+    <pays duree="P10D" nom="Madagascar"/>
+    <pays duree="0" francophone="Partiel" nom="Mali"/>
+    <pays duree="0" francophone="Partiel" nom="Maroc"/>
+    <pays duree="0" francophone="Partiel" nom="Mauritanie"/>
+    <pays duree="0" nom="Mozambique"/>
+    <pays duree="0" nom="Namibie"/>
+    <pays duree="0" francophone="Partiel" nom="Niger"/>
+    <pays duree="0" nom="Nigéria"/>
+    <pays duree="0" francophone="Partiel" nom="Rwanda"/>
+    <pays duree="0" francophone="Partiel" nom="République Centrafricaine"/>
+    <pays duree="0" francophone="Partiel" nom="République Démocratique du Congo"/>
+    <pays duree="0" francophone="Partiel" nom="Seychelles"/>
+    <pays duree="0" nom="Soudan"/>
+    <pays duree="0" francophone="Partiel" nom="Sénégal"/>
+    <pays duree="0" nom="Tchad"/>
+    <pays duree="0" francophone="Partiel" nom="Togo"/>
+    <pays duree="0" francophone="Partiel" nom="Tunisie"/>
+    <pays duree="0" nom="Égypte"/>
+    <pays duree="P4D" nom="Éthiopie"/>
+    <pays duree="0" francophone="Partiel" nom="Île Maurice"/>
+  </président>
+  <président nom="François Mitterrand">
+    <pays duree="P1D" nom="Afrique du Sud"/>
+    <pays duree="P3D" francophone="Partiel" nom="Algérie"/>
+    <pays duree="0" nom="Angola"/>
+    <pays duree="P3D" francophone="Partiel" nom="Burkina Faso"/>
+    <pays duree="P1D" francophone="Partiel" nom="Burundi"/>
+    <pays duree="P6D" francophone="Partiel" nom="Bénin"/>
+    <pays duree="P2D" francophone="Partiel" nom="Cameroun"/>
+    <pays duree="P2D" nom="Comores"/>
+    <pays duree="P1D" francophone="Partiel" nom="Congo"/>
+    <pays duree="P4D" francophone="Partiel" nom="Côte d'Ivoire"/>
+    <pays duree="P2D" francophone="Partiel" nom="Djibouti"/>
+    <pays duree="P6D" francophone="Officiel" nom="Gabon"/>
+    <pays duree="P3D" francophone="Partiel" nom="Guinée"/>
+    <pays duree="0" nom="Guinée-Bissau"/>
+    <pays duree="0" nom="Kenya"/>
+    <pays duree="0" nom="Libye"/>
+    <pays duree="P2D" nom="Madagascar"/>
+    <pays duree="P4D" francophone="Partiel" nom="Mali"/>
+    <pays duree="P7D" francophone="Partiel" nom="Maroc"/>
+    <pays duree="P1D" francophone="Partiel" nom="Mauritanie"/>
+    <pays duree="0" nom="Mozambique"/>
+    <pays duree="0" nom="Namibie"/>
+    <pays duree="P3D" francophone="Partiel" nom="Niger"/>
+    <pays duree="0" nom="Nigéria"/>
+    <pays duree="P61D" francophone="Partiel" nom="Rwanda"/>
+    <pays duree="P1D" francophone="Partiel" nom="République Centrafricaine"/>
+    <pays duree="P64D" francophone="Partiel" nom="République Démocratique du Congo"/>
+    <pays duree="P2D" francophone="Partiel" nom="Seychelles"/>
+    <pays duree="0" nom="Soudan"/>
+    <pays duree="P2D" francophone="Partiel" nom="Sénégal"/>
+    <pays duree="0" nom="Tchad"/>
+    <pays duree="P4D" francophone="Partiel" nom="Togo"/>
+    <pays duree="P5D" francophone="Partiel" nom="Tunisie"/>
+    <pays duree="P3D" nom="Égypte"/>
+    <pays duree="0" nom="Éthiopie"/>
+    <pays duree="P2D" francophone="Partiel" nom="Île Maurice"/>
+  </président>
+  <président nom="Georges Pompidou">
+    <pays duree="0" nom="Afrique du Sud"/>
+    <pays duree="0" francophone="Partiel" nom="Algérie"/>
+    <pays duree="0" nom="Angola"/>
+    <pays duree="P4D" francophone="Partiel" nom="Burkina Faso"/>
+    <pays duree="0" francophone="Partiel" nom="Burundi"/>
+    <pays duree="0" francophone="Partiel" nom="Bénin"/>
+    <pays duree="P2D" francophone="Partiel" nom="Cameroun"/>
+    <pays duree="0" nom="Comores"/>
+    <pays duree="0" francophone="Partiel" nom="Congo"/>
+    <pays duree="P2D" francophone="Partiel" nom="Côte d'Ivoire"/>
+    <pays duree="P8D" francophone="Partiel" nom="Djibouti"/>
+    <pays duree="P2D" francophone="Officiel" nom="Gabon"/>
+    <pays duree="0" francophone="Partiel" nom="Guinée"/>
+    <pays duree="0" nom="Guinée-Bissau"/>
+    <pays duree="0" nom="Kenya"/>
+    <pays duree="0" nom="Libye"/>
+    <pays duree="0" nom="Madagascar"/>
+    <pays duree="0" francophone="Partiel" nom="Mali"/>
+    <pays duree="0" francophone="Partiel" nom="Maroc"/>
+    <pays duree="P2D" francophone="Partiel" nom="Mauritanie"/>
+    <pays duree="0" nom="Mozambique"/>
+    <pays duree="0" nom="Namibie"/>
+    <pays duree="P2D" francophone="Partiel" nom="Niger"/>
+    <pays duree="0" nom="Nigéria"/>
+    <pays duree="0" francophone="Partiel" nom="Rwanda"/>
+    <pays duree="0" francophone="Partiel" nom="République Centrafricaine"/>
+    <pays duree="0" francophone="Partiel" nom="République Démocratique du Congo"/>
+    <pays duree="0" francophone="Partiel" nom="Seychelles"/>
+    <pays duree="0" nom="Soudan"/>
+    <pays duree="P2D" francophone="Partiel" nom="Sénégal"/>
+    <pays duree="P2D" nom="Tchad"/>
+    <pays duree="P4D" francophone="Partiel" nom="Togo"/>
+    <pays duree="0" francophone="Partiel" nom="Tunisie"/>
+    <pays duree="0" nom="Égypte"/>
+    <pays duree="P4D" nom="Éthiopie"/>
+    <pays duree="0" francophone="Partiel" nom="Île Maurice"/>
+  </président>
+  <président nom="Jacques Chirac">
+    <pays duree="P4D" nom="Afrique du Sud"/>
+    <pays duree="P3D" francophone="Partiel" nom="Algérie"/>
+    <pays duree="P2D" nom="Angola"/>
+    <pays duree="0" francophone="Partiel" nom="Burkina Faso"/>
+    <pays duree="0" francophone="Partiel" nom="Burundi"/>
+    <pays duree="0" francophone="Partiel" nom="Bénin"/>
+    <pays duree="P4D" francophone="Partiel" nom="Cameroun"/>
+    <pays duree="0" nom="Comores"/>
+    <pays duree="P3D" francophone="Partiel" nom="Congo"/>
+    <pays duree="P1D" francophone="Partiel" nom="Côte d'Ivoire"/>
+    <pays duree="0" francophone="Partiel" nom="Djibouti"/>
+    <pays duree="0" francophone="Officiel" nom="Gabon"/>
+    <pays duree="P4D" francophone="Partiel" nom="Guinée"/>
+    <pays duree="0" nom="Guinée-Bissau"/>
+    <pays duree="0" nom="Kenya"/>
+    <pays duree="0" nom="Libye"/>
+    <pays duree="P3D" nom="Madagascar"/>
+    <pays duree="P5D" francophone="Partiel" nom="Mali"/>
+    <pays duree="P3D" francophone="Partiel" nom="Maroc"/>
+    <pays duree="P1D" francophone="Partiel" nom="Mauritanie"/>
+    <pays duree="P1D" nom="Mozambique"/>
+    <pays duree="P2D" nom="Namibie"/>
+    <pays duree="P3D" francophone="Partiel" nom="Niger"/>
+    <pays duree="P4D" nom="Nigéria"/>
+    <pays duree="0" francophone="Partiel" nom="Rwanda"/>
+    <pays duree="0" francophone="Partiel" nom="République Centrafricaine"/>
+    <pays duree="0" francophone="Partiel" nom="République Démocratique du Congo"/>
+    <pays duree="0" francophone="Partiel" nom="Seychelles"/>
+    <pays duree="0" nom="Soudan"/>
+    <pays duree="P3D" francophone="Partiel" nom="Sénégal"/>
+    <pays duree="0" nom="Tchad"/>
+    <pays duree="P4D" francophone="Partiel" nom="Togo"/>
+    <pays duree="P4D" francophone="Partiel" nom="Tunisie"/>
+    <pays duree="P4D" nom="Égypte"/>
+    <pays duree="0" nom="Éthiopie"/>
+    <pays duree="0" francophone="Partiel" nom="Île Maurice"/>
+  </président>
+  <président nom="René Coty">
+    <pays duree="0" nom="Afrique du Sud"/>
+    <pays duree="0" francophone="Partiel" nom="Algérie"/>
+    <pays duree="0" nom="Angola"/>
+    <pays duree="0" francophone="Partiel" nom="Burkina Faso"/>
+    <pays duree="0" francophone="Partiel" nom="Burundi"/>
+    <pays duree="0" francophone="Partiel" nom="Bénin"/>
+    <pays duree="0" francophone="Partiel" nom="Cameroun"/>
+    <pays duree="0" nom="Comores"/>
+    <pays duree="0" francophone="Partiel" nom="Congo"/>
+    <pays duree="0" francophone="Partiel" nom="Côte d'Ivoire"/>
+    <pays duree="0" francophone="Partiel" nom="Djibouti"/>
+    <pays duree="0" francophone="Officiel" nom="Gabon"/>
+    <pays duree="0" francophone="Partiel" nom="Guinée"/>
+    <pays duree="0" nom="Guinée-Bissau"/>
+    <pays duree="0" nom="Kenya"/>
+    <pays duree="0" nom="Libye"/>
+    <pays duree="0" nom="Madagascar"/>
+    <pays duree="0" francophone="Partiel" nom="Mali"/>
+    <pays duree="0" francophone="Partiel" nom="Maroc"/>
+    <pays duree="0" francophone="Partiel" nom="Mauritanie"/>
+    <pays duree="0" nom="Mozambique"/>
+    <pays duree="0" nom="Namibie"/>
+    <pays duree="0" francophone="Partiel" nom="Niger"/>
+    <pays duree="0" nom="Nigéria"/>
+    <pays duree="0" francophone="Partiel" nom="Rwanda"/>
+    <pays duree="0" francophone="Partiel" nom="République Centrafricaine"/>
+    <pays duree="0" francophone="Partiel" nom="République Démocratique du Congo"/>
+    <pays duree="0" francophone="Partiel" nom="Seychelles"/>
+    <pays duree="0" nom="Soudan"/>
+    <pays duree="0" francophone="Partiel" nom="Sénégal"/>
+    <pays duree="0" nom="Tchad"/>
+    <pays duree="0" francophone="Partiel" nom="Togo"/>
+    <pays duree="0" francophone="Partiel" nom="Tunisie"/>
+    <pays duree="0" nom="Égypte"/>
+    <pays duree="0" nom="Éthiopie"/>
+    <pays duree="0" francophone="Partiel" nom="Île Maurice"/>
+  </président>
+  <président nom="Valéry Giscard d'Estaing">
+    <pays duree="0" nom="Afrique du Sud"/>
+    <pays duree="P11D" francophone="Partiel" nom="Algérie"/>
+    <pays duree="0" nom="Angola"/>
+    <pays duree="0" francophone="Partiel" nom="Burkina Faso"/>
+    <pays duree="0" francophone="Partiel" nom="Burundi"/>
+    <pays duree="0" francophone="Partiel" nom="Bénin"/>
+    <pays duree="P3D" francophone="Partiel" nom="Cameroun"/>
+    <pays duree="0" nom="Comores"/>
+    <pays duree="0" francophone="Partiel" nom="Congo"/>
+    <pays duree="P4D" francophone="Partiel" nom="Côte d'Ivoire"/>
+    <pays duree="0" francophone="Partiel" nom="Djibouti"/>
+    <pays duree="P3D" francophone="Officiel" nom="Gabon"/>
+    <pays duree="P2D" francophone="Partiel" nom="Guinée"/>
+    <pays duree="0" nom="Guinée-Bissau"/>
+    <pays duree="0" nom="Kenya"/>
+    <pays duree="0" nom="Libye"/>
+    <pays duree="0" nom="Madagascar"/>
+    <pays duree="0" francophone="Partiel" nom="Mali"/>
+    <pays duree="P3D" francophone="Partiel" nom="Maroc"/>
+    <pays duree="0" francophone="Partiel" nom="Mauritanie"/>
+    <pays duree="0" nom="Mozambique"/>
+    <pays duree="0" nom="Namibie"/>
+    <pays duree="0" francophone="Partiel" nom="Niger"/>
+    <pays duree="0" nom="Nigéria"/>
+    <pays duree="0" francophone="Partiel" nom="Rwanda"/>
+    <pays duree="P3D" francophone="Partiel" nom="République Centrafricaine"/>
+    <pays duree="P2D" francophone="Partiel" nom="République Démocratique du Congo"/>
+    <pays duree="0" francophone="Partiel" nom="Seychelles"/>
+    <pays duree="0" nom="Soudan"/>
+    <pays duree="P4D" francophone="Partiel" nom="Sénégal"/>
+    <pays duree="0" nom="Tchad"/>
+    <pays duree="0" francophone="Partiel" nom="Togo"/>
+    <pays duree="P2D" francophone="Partiel" nom="Tunisie"/>
+    <pays duree="P5D" nom="Égypte"/>
+    <pays duree="0" nom="Éthiopie"/>
+    <pays duree="0" francophone="Partiel" nom="Île Maurice"/>
+  </président>
+  <président nom="Vincent Auriol">
+    <pays duree="0" nom="Afrique du Sud"/>
+    <pays duree="P4D" francophone="Partiel" nom="Algérie"/>
+    <pays duree="0" nom="Angola"/>
+    <pays duree="0" francophone="Partiel" nom="Burkina Faso"/>
+    <pays duree="0" francophone="Partiel" nom="Burundi"/>
+    <pays duree="0" francophone="Partiel" nom="Bénin"/>
+    <pays duree="0" francophone="Partiel" nom="Cameroun"/>
+    <pays duree="0" nom="Comores"/>
+    <pays duree="0" francophone="Partiel" nom="Congo"/>
+    <pays duree="0" francophone="Partiel" nom="Côte d'Ivoire"/>
+    <pays duree="0" francophone="Partiel" nom="Djibouti"/>
+    <pays duree="0" francophone="Officiel" nom="Gabon"/>
+    <pays duree="0" francophone="Partiel" nom="Guinée"/>
+    <pays duree="0" nom="Guinée-Bissau"/>
+    <pays duree="0" nom="Kenya"/>
+    <pays duree="0" nom="Libye"/>
+    <pays duree="0" nom="Madagascar"/>
+    <pays duree="0" francophone="Partiel" nom="Mali"/>
+    <pays duree="0" francophone="Partiel" nom="Maroc"/>
+    <pays duree="0" francophone="Partiel" nom="Mauritanie"/>
+    <pays duree="0" nom="Mozambique"/>
+    <pays duree="0" nom="Namibie"/>
+    <pays duree="0" francophone="Partiel" nom="Niger"/>
+    <pays duree="0" nom="Nigéria"/>
+    <pays duree="0" francophone="Partiel" nom="Rwanda"/>
+    <pays duree="0" francophone="Partiel" nom="République Centrafricaine"/>
+    <pays duree="0" francophone="Partiel" nom="République Démocratique du Congo"/>
+    <pays duree="0" francophone="Partiel" nom="Seychelles"/>
+    <pays duree="0" nom="Soudan"/>
+    <pays duree="0" francophone="Partiel" nom="Sénégal"/>
+    <pays duree="0" nom="Tchad"/>
+    <pays duree="0" francophone="Partiel" nom="Togo"/>
+    <pays duree="0" francophone="Partiel" nom="Tunisie"/>
+    <pays duree="0" nom="Égypte"/>
+    <pays duree="0" nom="Éthiopie"/>
+    <pays duree="0" francophone="Partiel" nom="Île Maurice"/>
+  </président>
+</liste-présidents>
