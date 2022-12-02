@@ -53,12 +53,12 @@
 			$attributeDuree = new DOMAttr("duree",$df);
 			$noeudVisite->setAttributeNode($attributeDuree);
 				$listeLangue = $xpath->query("id('".$idPays."')/language");
-
 				foreach ($listeLangue as $langue) {
 					if ($langue->nodeValue == "French") {
-						$francophone = "Partiel";
-						if(floatval($langue->getAttribute("percentage") >= 30)){
-							$francophone = "Officiel";
+						$francophone = "Officiel";
+						$percent = $langue->getAttribute("percentage");
+						if(floatval($langue->getAttribute("percentage")) >= 30){
+							$francophone = "Partiel";
 						}
 					 $attributeFrancophone = new DOMAttr("francophone",$francophone);
 	 				 $noeudVisite->setAttributeNode($attributeFrancophone);

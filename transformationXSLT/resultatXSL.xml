@@ -2,1256 +2,269 @@
   SYSTEM "res.dtd">
 <liste-présidents>
    <président nom="Charles de Gaulle">
-      <pays duree="P0Y0M2D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Égypte"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M0D" nom="Guinée-Bissau"></pays>
-      <pays duree="P0Y0M4D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M6D" nom="Bénin" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M9D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mauritanie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Tchad"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-25D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-28D" nom="Angola"></pays>
-      <pays duree="P0Y0M4D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Égypte"></pays>
-      <pays duree="P0Y0M0D" nom="Rwanda" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y2M0D" nom="Rwanda" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Île Maurice" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Éthiopie"></pays>
-      <pays duree="P0Y0M5D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Éthiopie"></pays>
-      <pays duree="P0Y0M2D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Tchad"></pays>
-      <pays duree="P0Y0M11D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Soudan"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-25D" nom="Kenya"></pays>
-      <pays duree="P0Y0M1D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Égypte"></pays>
-      <pays duree="P0Y0M2D" nom="Libye"></pays>
-      <pays duree="P0Y0M5D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Mauritanie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M1D" nom="Mozambique"></pays>
-      <pays duree="P0Y0M0D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Tchad"></pays>
-      <pays duree="P0Y0M2D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Niger" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y1M-29D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Niger" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="République Démocratique du Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M6D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M1D" nom="Comores"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Niger" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="République Centrafricaine" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Rwanda" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M2D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-27D" nom="Égypte"></pays>
-      <pays duree="P0Y0M7D" nom="Égypte"></pays>
-      <pays duree="P0Y0M0D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Égypte"></pays>
-      <pays duree="P0Y0M2D" nom="Namibie"></pays>
-      <pays duree="P0Y0M4D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Mauritanie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Burundi" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="République Centrafricaine" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Seychelles" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Comores"></pays>
-      <pays duree="P0Y0M1D" nom="Seychelles" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M9D" nom="Comores"></pays>
-      <pays duree="P0Y0M4D" nom="Éthiopie"></pays>
-      <pays duree="P0Y0M5D" nom="Égypte"></pays>
-      <pays duree="P0Y0M4D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tchad"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y1M-30D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M1D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M9D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Nigéria"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M3D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y2M0D" nom="République Démocratique du Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Île Maurice" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M4D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="République Démocratique du Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y-1M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Égypte"></pays>
+      <pays duree="0" nom="Afrique du Sud"></pays>
+      <pays duree="P14D" nom="Algérie"></pays>
+      <pays duree="0" nom="Angola"></pays>
+      <pays duree="PT0S" franchophone="Officiel" nom="Burkina Faso"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Burundi"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Bénin"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Cameroun"></pays>
+      <pays duree="P9D" nom="Comores"></pays>
+      <pays duree="P1D" franchophone="Officiel" nom="Congo"></pays>
+      <pays duree="P1D" franchophone="Officiel" nom="Côte d'Ivoire"></pays>
+      <pays duree="P14D" nom="Djibouti"></pays>
+      <pays duree="0" franchophone="EnPartie" nom="Gabon"></pays>
+      <pays duree="P1D" nom="Guinée"></pays>
+      <pays duree="0" nom="Guinée-Bissau"></pays>
+      <pays duree="0" nom="Kenya"></pays>
+      <pays duree="0" nom="Libye"></pays>
+      <pays duree="P10D" nom="Madagascar"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Mali"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Maroc"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Mauritanie"></pays>
+      <pays duree="0" nom="Mozambique"></pays>
+      <pays duree="0" nom="Namibie"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Niger"></pays>
+      <pays duree="0" nom="Nigéria"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Rwanda"></pays>
+      <pays duree="0" franchophone="Officiel" nom="République Centrafricaine"></pays>
+      <pays duree="0" franchophone="Officiel" nom="République Démocratique du Congo"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Seychelles"></pays>
+      <pays duree="0" nom="Soudan"></pays>
+      <pays duree="PT0S" franchophone="Officiel" nom="Sénégal"></pays>
+      <pays duree="0" nom="Tchad"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Togo"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Tunisie"></pays>
+      <pays duree="0" nom="Égypte"></pays>
+      <pays duree="P4D" nom="Éthiopie"></pays>
+      <pays duree="0" nom="Île Maurice"></pays>
    </président>
    <président nom="François Mitterrand">
-      <pays duree="P0Y0M2D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Égypte"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M0D" nom="Guinée-Bissau"></pays>
-      <pays duree="P0Y0M4D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M6D" nom="Bénin" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M9D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mauritanie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Tchad"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-25D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-28D" nom="Angola"></pays>
-      <pays duree="P0Y0M4D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Égypte"></pays>
-      <pays duree="P0Y0M0D" nom="Rwanda" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y2M0D" nom="Rwanda" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Île Maurice" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Éthiopie"></pays>
-      <pays duree="P0Y0M5D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Éthiopie"></pays>
-      <pays duree="P0Y0M2D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Tchad"></pays>
-      <pays duree="P0Y0M11D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Soudan"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-25D" nom="Kenya"></pays>
-      <pays duree="P0Y0M1D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Égypte"></pays>
-      <pays duree="P0Y0M2D" nom="Libye"></pays>
-      <pays duree="P0Y0M5D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Mauritanie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M1D" nom="Mozambique"></pays>
-      <pays duree="P0Y0M0D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Tchad"></pays>
-      <pays duree="P0Y0M2D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Niger" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y1M-29D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Niger" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="République Démocratique du Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M6D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M1D" nom="Comores"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Niger" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="République Centrafricaine" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Rwanda" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M2D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-27D" nom="Égypte"></pays>
-      <pays duree="P0Y0M7D" nom="Égypte"></pays>
-      <pays duree="P0Y0M0D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Égypte"></pays>
-      <pays duree="P0Y0M2D" nom="Namibie"></pays>
-      <pays duree="P0Y0M4D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Mauritanie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Burundi" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="République Centrafricaine" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Seychelles" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Comores"></pays>
-      <pays duree="P0Y0M1D" nom="Seychelles" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M9D" nom="Comores"></pays>
-      <pays duree="P0Y0M4D" nom="Éthiopie"></pays>
-      <pays duree="P0Y0M5D" nom="Égypte"></pays>
-      <pays duree="P0Y0M4D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tchad"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y1M-30D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M1D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M9D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Nigéria"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M3D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y2M0D" nom="République Démocratique du Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Île Maurice" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M4D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="République Démocratique du Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y-1M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Égypte"></pays>
+      <pays duree="P1D" nom="Afrique du Sud"></pays>
+      <pays duree="P3D" nom="Algérie"></pays>
+      <pays duree="0" nom="Angola"></pays>
+      <pays duree="P3D" franchophone="Officiel" nom="Burkina Faso"></pays>
+      <pays duree="P1D" franchophone="Officiel" nom="Burundi"></pays>
+      <pays duree="P6D" franchophone="Officiel" nom="Bénin"></pays>
+      <pays duree="P2D" franchophone="Officiel" nom="Cameroun"></pays>
+      <pays duree="P2D" nom="Comores"></pays>
+      <pays duree="P1D" franchophone="Officiel" nom="Congo"></pays>
+      <pays duree="P4D" franchophone="Officiel" nom="Côte d'Ivoire"></pays>
+      <pays duree="P2D" nom="Djibouti"></pays>
+      <pays duree="P6D" franchophone="EnPartie" nom="Gabon"></pays>
+      <pays duree="P3D" nom="Guinée"></pays>
+      <pays duree="PT0S" nom="Guinée-Bissau"></pays>
+      <pays duree="0" nom="Kenya"></pays>
+      <pays duree="0" nom="Libye"></pays>
+      <pays duree="P2D" nom="Madagascar"></pays>
+      <pays duree="P4D" franchophone="Officiel" nom="Mali"></pays>
+      <pays duree="P7D" franchophone="Officiel" nom="Maroc"></pays>
+      <pays duree="P1D" franchophone="Officiel" nom="Mauritanie"></pays>
+      <pays duree="0" nom="Mozambique"></pays>
+      <pays duree="0" nom="Namibie"></pays>
+      <pays duree="P3D" franchophone="Officiel" nom="Niger"></pays>
+      <pays duree="0" nom="Nigéria"></pays>
+      <pays duree="P61D" franchophone="Officiel" nom="Rwanda"></pays>
+      <pays duree="P1D" franchophone="Officiel" nom="République Centrafricaine"></pays>
+      <pays duree="P64D" franchophone="Officiel" nom="République Démocratique du Congo"></pays>
+      <pays duree="P2D" franchophone="Officiel" nom="Seychelles"></pays>
+      <pays duree="0" nom="Soudan"></pays>
+      <pays duree="P2D" franchophone="Officiel" nom="Sénégal"></pays>
+      <pays duree="0" nom="Tchad"></pays>
+      <pays duree="P4D" franchophone="Officiel" nom="Togo"></pays>
+      <pays duree="P5D" franchophone="Officiel" nom="Tunisie"></pays>
+      <pays duree="P3D" nom="Égypte"></pays>
+      <pays duree="0" nom="Éthiopie"></pays>
+      <pays duree="P2D" nom="Île Maurice"></pays>
    </président>
    <président nom="Georges Pompidou">
-      <pays duree="P0Y0M2D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Égypte"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M0D" nom="Guinée-Bissau"></pays>
-      <pays duree="P0Y0M4D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M6D" nom="Bénin" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M9D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mauritanie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Tchad"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-25D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-28D" nom="Angola"></pays>
-      <pays duree="P0Y0M4D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Égypte"></pays>
-      <pays duree="P0Y0M0D" nom="Rwanda" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y2M0D" nom="Rwanda" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Île Maurice" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Éthiopie"></pays>
-      <pays duree="P0Y0M5D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Éthiopie"></pays>
-      <pays duree="P0Y0M2D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Tchad"></pays>
-      <pays duree="P0Y0M11D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Soudan"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-25D" nom="Kenya"></pays>
-      <pays duree="P0Y0M1D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Égypte"></pays>
-      <pays duree="P0Y0M2D" nom="Libye"></pays>
-      <pays duree="P0Y0M5D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Mauritanie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M1D" nom="Mozambique"></pays>
-      <pays duree="P0Y0M0D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Tchad"></pays>
-      <pays duree="P0Y0M2D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Niger" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y1M-29D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Niger" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="République Démocratique du Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M6D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M1D" nom="Comores"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Niger" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="République Centrafricaine" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Rwanda" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M2D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-27D" nom="Égypte"></pays>
-      <pays duree="P0Y0M7D" nom="Égypte"></pays>
-      <pays duree="P0Y0M0D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Égypte"></pays>
-      <pays duree="P0Y0M2D" nom="Namibie"></pays>
-      <pays duree="P0Y0M4D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Mauritanie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Burundi" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="République Centrafricaine" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Seychelles" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Comores"></pays>
-      <pays duree="P0Y0M1D" nom="Seychelles" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M9D" nom="Comores"></pays>
-      <pays duree="P0Y0M4D" nom="Éthiopie"></pays>
-      <pays duree="P0Y0M5D" nom="Égypte"></pays>
-      <pays duree="P0Y0M4D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tchad"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y1M-30D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M1D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M9D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Nigéria"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M3D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y2M0D" nom="République Démocratique du Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Île Maurice" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M4D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="République Démocratique du Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y-1M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Égypte"></pays>
+      <pays duree="0" nom="Afrique du Sud"></pays>
+      <pays duree="0" nom="Algérie"></pays>
+      <pays duree="0" nom="Angola"></pays>
+      <pays duree="P4D" franchophone="Officiel" nom="Burkina Faso"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Burundi"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Bénin"></pays>
+      <pays duree="P2D" franchophone="Officiel" nom="Cameroun"></pays>
+      <pays duree="0" nom="Comores"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Congo"></pays>
+      <pays duree="P2D" franchophone="Officiel" nom="Côte d'Ivoire"></pays>
+      <pays duree="P8D" nom="Djibouti"></pays>
+      <pays duree="P2D" franchophone="EnPartie" nom="Gabon"></pays>
+      <pays duree="0" nom="Guinée"></pays>
+      <pays duree="0" nom="Guinée-Bissau"></pays>
+      <pays duree="0" nom="Kenya"></pays>
+      <pays duree="0" nom="Libye"></pays>
+      <pays duree="0" nom="Madagascar"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Mali"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Maroc"></pays>
+      <pays duree="P2D" franchophone="Officiel" nom="Mauritanie"></pays>
+      <pays duree="0" nom="Mozambique"></pays>
+      <pays duree="0" nom="Namibie"></pays>
+      <pays duree="P2D" franchophone="Officiel" nom="Niger"></pays>
+      <pays duree="0" nom="Nigéria"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Rwanda"></pays>
+      <pays duree="0" franchophone="Officiel" nom="République Centrafricaine"></pays>
+      <pays duree="0" franchophone="Officiel" nom="République Démocratique du Congo"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Seychelles"></pays>
+      <pays duree="0" nom="Soudan"></pays>
+      <pays duree="P2D" franchophone="Officiel" nom="Sénégal"></pays>
+      <pays duree="P2D" nom="Tchad"></pays>
+      <pays duree="P4D" franchophone="Officiel" nom="Togo"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Tunisie"></pays>
+      <pays duree="0" nom="Égypte"></pays>
+      <pays duree="P4D" nom="Éthiopie"></pays>
+      <pays duree="0" nom="Île Maurice"></pays>
    </président>
    <président nom="Jacques Chirac">
-      <pays duree="P0Y0M2D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Égypte"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M0D" nom="Guinée-Bissau"></pays>
-      <pays duree="P0Y0M4D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M6D" nom="Bénin" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M9D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mauritanie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Tchad"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-25D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-28D" nom="Angola"></pays>
-      <pays duree="P0Y0M4D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Égypte"></pays>
-      <pays duree="P0Y0M0D" nom="Rwanda" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y2M0D" nom="Rwanda" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Île Maurice" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Éthiopie"></pays>
-      <pays duree="P0Y0M5D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Éthiopie"></pays>
-      <pays duree="P0Y0M2D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Tchad"></pays>
-      <pays duree="P0Y0M11D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Soudan"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-25D" nom="Kenya"></pays>
-      <pays duree="P0Y0M1D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Égypte"></pays>
-      <pays duree="P0Y0M2D" nom="Libye"></pays>
-      <pays duree="P0Y0M5D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Mauritanie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M1D" nom="Mozambique"></pays>
-      <pays duree="P0Y0M0D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Tchad"></pays>
-      <pays duree="P0Y0M2D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Niger" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y1M-29D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Niger" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="République Démocratique du Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M6D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M1D" nom="Comores"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Niger" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="République Centrafricaine" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Rwanda" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M2D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-27D" nom="Égypte"></pays>
-      <pays duree="P0Y0M7D" nom="Égypte"></pays>
-      <pays duree="P0Y0M0D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Égypte"></pays>
-      <pays duree="P0Y0M2D" nom="Namibie"></pays>
-      <pays duree="P0Y0M4D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Mauritanie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Burundi" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="République Centrafricaine" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Seychelles" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Comores"></pays>
-      <pays duree="P0Y0M1D" nom="Seychelles" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M9D" nom="Comores"></pays>
-      <pays duree="P0Y0M4D" nom="Éthiopie"></pays>
-      <pays duree="P0Y0M5D" nom="Égypte"></pays>
-      <pays duree="P0Y0M4D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tchad"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y1M-30D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M1D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M9D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Nigéria"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M3D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y2M0D" nom="République Démocratique du Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Île Maurice" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M4D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="République Démocratique du Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y-1M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Égypte"></pays>
+      <pays duree="P4D" nom="Afrique du Sud"></pays>
+      <pays duree="P3D" nom="Algérie"></pays>
+      <pays duree="P2D" nom="Angola"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Burkina Faso"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Burundi"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Bénin"></pays>
+      <pays duree="P4D" franchophone="Officiel" nom="Cameroun"></pays>
+      <pays duree="0" nom="Comores"></pays>
+      <pays duree="P5D" franchophone="Officiel" nom="Congo"></pays>
+      <pays duree="P2D" franchophone="Officiel" nom="Côte d'Ivoire"></pays>
+      <pays duree="0" nom="Djibouti"></pays>
+      <pays duree="P2D" franchophone="EnPartie" nom="Gabon"></pays>
+      <pays duree="P4D" nom="Guinée"></pays>
+      <pays duree="0" nom="Guinée-Bissau"></pays>
+      <pays duree="0" nom="Kenya"></pays>
+      <pays duree="P2D" nom="Libye"></pays>
+      <pays duree="P3D" nom="Madagascar"></pays>
+      <pays duree="P5D" franchophone="Officiel" nom="Mali"></pays>
+      <pays duree="P3D" franchophone="Officiel" nom="Maroc"></pays>
+      <pays duree="P1D" franchophone="Officiel" nom="Mauritanie"></pays>
+      <pays duree="P1D" nom="Mozambique"></pays>
+      <pays duree="P2D" nom="Namibie"></pays>
+      <pays duree="P3D" franchophone="Officiel" nom="Niger"></pays>
+      <pays duree="P4D" nom="Nigéria"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Rwanda"></pays>
+      <pays duree="0" franchophone="Officiel" nom="République Centrafricaine"></pays>
+      <pays duree="0" franchophone="Officiel" nom="République Démocratique du Congo"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Seychelles"></pays>
+      <pays duree="0" nom="Soudan"></pays>
+      <pays duree="P3D" franchophone="Officiel" nom="Sénégal"></pays>
+      <pays duree="P1D" nom="Tchad"></pays>
+      <pays duree="P4D" franchophone="Officiel" nom="Togo"></pays>
+      <pays duree="P4D" franchophone="Officiel" nom="Tunisie"></pays>
+      <pays duree="P4D" nom="Égypte"></pays>
+      <pays duree="0" nom="Éthiopie"></pays>
+      <pays duree="0" nom="Île Maurice"></pays>
    </président>
    <président nom="René Coty">
-      <pays duree="P0Y0M2D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Égypte"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M0D" nom="Guinée-Bissau"></pays>
-      <pays duree="P0Y0M4D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M6D" nom="Bénin" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M9D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mauritanie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Tchad"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-25D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-28D" nom="Angola"></pays>
-      <pays duree="P0Y0M4D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Égypte"></pays>
-      <pays duree="P0Y0M0D" nom="Rwanda" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y2M0D" nom="Rwanda" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Île Maurice" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Éthiopie"></pays>
-      <pays duree="P0Y0M5D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Éthiopie"></pays>
-      <pays duree="P0Y0M2D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Tchad"></pays>
-      <pays duree="P0Y0M11D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Soudan"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-25D" nom="Kenya"></pays>
-      <pays duree="P0Y0M1D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Égypte"></pays>
-      <pays duree="P0Y0M2D" nom="Libye"></pays>
-      <pays duree="P0Y0M5D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Mauritanie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M1D" nom="Mozambique"></pays>
-      <pays duree="P0Y0M0D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Tchad"></pays>
-      <pays duree="P0Y0M2D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Niger" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y1M-29D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Niger" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="République Démocratique du Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M6D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M1D" nom="Comores"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Niger" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="République Centrafricaine" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Rwanda" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M2D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-27D" nom="Égypte"></pays>
-      <pays duree="P0Y0M7D" nom="Égypte"></pays>
-      <pays duree="P0Y0M0D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Égypte"></pays>
-      <pays duree="P0Y0M2D" nom="Namibie"></pays>
-      <pays duree="P0Y0M4D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Mauritanie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Burundi" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="République Centrafricaine" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Seychelles" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Comores"></pays>
-      <pays duree="P0Y0M1D" nom="Seychelles" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M9D" nom="Comores"></pays>
-      <pays duree="P0Y0M4D" nom="Éthiopie"></pays>
-      <pays duree="P0Y0M5D" nom="Égypte"></pays>
-      <pays duree="P0Y0M4D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tchad"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y1M-30D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M1D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M9D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Nigéria"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M3D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y2M0D" nom="République Démocratique du Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Île Maurice" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M4D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="République Démocratique du Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y-1M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Égypte"></pays>
+      <pays duree="0" nom="Afrique du Sud"></pays>
+      <pays duree="0" nom="Algérie"></pays>
+      <pays duree="0" nom="Angola"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Burkina Faso"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Burundi"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Bénin"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Cameroun"></pays>
+      <pays duree="0" nom="Comores"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Congo"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Côte d'Ivoire"></pays>
+      <pays duree="0" nom="Djibouti"></pays>
+      <pays duree="0" franchophone="EnPartie" nom="Gabon"></pays>
+      <pays duree="0" nom="Guinée"></pays>
+      <pays duree="0" nom="Guinée-Bissau"></pays>
+      <pays duree="0" nom="Kenya"></pays>
+      <pays duree="0" nom="Libye"></pays>
+      <pays duree="0" nom="Madagascar"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Mali"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Maroc"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Mauritanie"></pays>
+      <pays duree="0" nom="Mozambique"></pays>
+      <pays duree="0" nom="Namibie"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Niger"></pays>
+      <pays duree="0" nom="Nigéria"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Rwanda"></pays>
+      <pays duree="0" franchophone="Officiel" nom="République Centrafricaine"></pays>
+      <pays duree="0" franchophone="Officiel" nom="République Démocratique du Congo"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Seychelles"></pays>
+      <pays duree="0" nom="Soudan"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Sénégal"></pays>
+      <pays duree="0" nom="Tchad"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Togo"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Tunisie"></pays>
+      <pays duree="0" nom="Égypte"></pays>
+      <pays duree="0" nom="Éthiopie"></pays>
+      <pays duree="0" nom="Île Maurice"></pays>
    </président>
    <président nom="Valéry Giscard d'Estaing">
-      <pays duree="P0Y0M2D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Égypte"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M0D" nom="Guinée-Bissau"></pays>
-      <pays duree="P0Y0M4D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M6D" nom="Bénin" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M9D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mauritanie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Tchad"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-25D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-28D" nom="Angola"></pays>
-      <pays duree="P0Y0M4D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Égypte"></pays>
-      <pays duree="P0Y0M0D" nom="Rwanda" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y2M0D" nom="Rwanda" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Île Maurice" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Éthiopie"></pays>
-      <pays duree="P0Y0M5D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Éthiopie"></pays>
-      <pays duree="P0Y0M2D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Tchad"></pays>
-      <pays duree="P0Y0M11D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Soudan"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-25D" nom="Kenya"></pays>
-      <pays duree="P0Y0M1D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Égypte"></pays>
-      <pays duree="P0Y0M2D" nom="Libye"></pays>
-      <pays duree="P0Y0M5D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Mauritanie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M1D" nom="Mozambique"></pays>
-      <pays duree="P0Y0M0D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Tchad"></pays>
-      <pays duree="P0Y0M2D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Niger" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y1M-29D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Niger" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="République Démocratique du Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M6D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M1D" nom="Comores"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Niger" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="République Centrafricaine" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Rwanda" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M2D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-27D" nom="Égypte"></pays>
-      <pays duree="P0Y0M7D" nom="Égypte"></pays>
-      <pays duree="P0Y0M0D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Égypte"></pays>
-      <pays duree="P0Y0M2D" nom="Namibie"></pays>
-      <pays duree="P0Y0M4D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Mauritanie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Burundi" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="République Centrafricaine" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Seychelles" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Comores"></pays>
-      <pays duree="P0Y0M1D" nom="Seychelles" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M9D" nom="Comores"></pays>
-      <pays duree="P0Y0M4D" nom="Éthiopie"></pays>
-      <pays duree="P0Y0M5D" nom="Égypte"></pays>
-      <pays duree="P0Y0M4D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tchad"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y1M-30D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M1D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M9D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Nigéria"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M3D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y2M0D" nom="République Démocratique du Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Île Maurice" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M4D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="République Démocratique du Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y-1M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Égypte"></pays>
+      <pays duree="0" nom="Afrique du Sud"></pays>
+      <pays duree="P11D" nom="Algérie"></pays>
+      <pays duree="0" nom="Angola"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Burkina Faso"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Burundi"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Bénin"></pays>
+      <pays duree="P3D" franchophone="Officiel" nom="Cameroun"></pays>
+      <pays duree="0" nom="Comores"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Congo"></pays>
+      <pays duree="P4D" franchophone="Officiel" nom="Côte d'Ivoire"></pays>
+      <pays duree="0" nom="Djibouti"></pays>
+      <pays duree="P3D" franchophone="EnPartie" nom="Gabon"></pays>
+      <pays duree="P2D" nom="Guinée"></pays>
+      <pays duree="0" nom="Guinée-Bissau"></pays>
+      <pays duree="0" nom="Kenya"></pays>
+      <pays duree="0" nom="Libye"></pays>
+      <pays duree="0" nom="Madagascar"></pays>
+      <pays duree="PT0S" franchophone="Officiel" nom="Mali"></pays>
+      <pays duree="P3D" franchophone="Officiel" nom="Maroc"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Mauritanie"></pays>
+      <pays duree="0" nom="Mozambique"></pays>
+      <pays duree="0" nom="Namibie"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Niger"></pays>
+      <pays duree="0" nom="Nigéria"></pays>
+      <pays duree="PT0S" franchophone="Officiel" nom="Rwanda"></pays>
+      <pays duree="P3D" franchophone="Officiel" nom="République Centrafricaine"></pays>
+      <pays duree="P2D" franchophone="Officiel" nom="République Démocratique du Congo"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Seychelles"></pays>
+      <pays duree="PT0S" nom="Soudan"></pays>
+      <pays duree="P4D" franchophone="Officiel" nom="Sénégal"></pays>
+      <pays duree="0" nom="Tchad"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Togo"></pays>
+      <pays duree="P2D" franchophone="Officiel" nom="Tunisie"></pays>
+      <pays duree="P5D" nom="Égypte"></pays>
+      <pays duree="0" nom="Éthiopie"></pays>
+      <pays duree="0" nom="Île Maurice"></pays>
    </président>
    <président nom="Vincent Auriol">
-      <pays duree="P0Y0M2D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Égypte"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M0D" nom="Guinée-Bissau"></pays>
-      <pays duree="P0Y0M4D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M6D" nom="Bénin" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M9D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mauritanie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Tchad"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-25D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-28D" nom="Angola"></pays>
-      <pays duree="P0Y0M4D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Égypte"></pays>
-      <pays duree="P0Y0M0D" nom="Rwanda" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y2M0D" nom="Rwanda" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Île Maurice" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Éthiopie"></pays>
-      <pays duree="P0Y0M5D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Éthiopie"></pays>
-      <pays duree="P0Y0M2D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Tchad"></pays>
-      <pays duree="P0Y0M11D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Soudan"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-25D" nom="Kenya"></pays>
-      <pays duree="P0Y0M1D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Égypte"></pays>
-      <pays duree="P0Y0M2D" nom="Libye"></pays>
-      <pays duree="P0Y0M5D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Mauritanie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M1D" nom="Mozambique"></pays>
-      <pays duree="P0Y0M0D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Tchad"></pays>
-      <pays duree="P0Y0M2D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Niger" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y1M-29D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Niger" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="République Démocratique du Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M6D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M1D" nom="Comores"></pays>
-      <pays duree="P0Y0M1D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Niger" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="République Centrafricaine" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Rwanda" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M2D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M2D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Sénégal" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-27D" nom="Égypte"></pays>
-      <pays duree="P0Y0M7D" nom="Égypte"></pays>
-      <pays duree="P0Y0M0D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Égypte"></pays>
-      <pays duree="P0Y0M2D" nom="Namibie"></pays>
-      <pays duree="P0Y0M4D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Mauritanie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Burundi" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="République Centrafricaine" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Seychelles" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Comores"></pays>
-      <pays duree="P0Y0M1D" nom="Seychelles" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M9D" nom="Comores"></pays>
-      <pays duree="P0Y0M4D" nom="Éthiopie"></pays>
-      <pays duree="P0Y0M5D" nom="Égypte"></pays>
-      <pays duree="P0Y0M4D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Cameroun" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tchad"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y1M-30D" nom="Afrique du Sud"></pays>
-      <pays duree="P0Y0M1D" nom="Gabon" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M9D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Mali" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Nigéria"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M3D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Égypte"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y2M0D" nom="République Démocratique du Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Guinée" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Djibouti" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Île Maurice" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Madagascar"></pays>
-      <pays duree="P0Y0M4D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Burkina Faso" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M4D" nom="Togo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="République Démocratique du Congo" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M0D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M2D" nom="Tunisie" franchophone="Officiel"></pays>
-      <pays duree="P0Y-1M2D" nom="Algérie" franchophone="Officiel"></pays>
-      <pays duree="P0Y1M-30D" nom="Côte d'Ivoire" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M1D" nom="Maroc" franchophone="Officiel"></pays>
-      <pays duree="P0Y0M3D" nom="Égypte"></pays>
+      <pays duree="0" nom="Afrique du Sud"></pays>
+      <pays duree="P4D" nom="Algérie"></pays>
+      <pays duree="0" nom="Angola"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Burkina Faso"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Burundi"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Bénin"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Cameroun"></pays>
+      <pays duree="0" nom="Comores"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Congo"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Côte d'Ivoire"></pays>
+      <pays duree="0" nom="Djibouti"></pays>
+      <pays duree="0" franchophone="EnPartie" nom="Gabon"></pays>
+      <pays duree="0" nom="Guinée"></pays>
+      <pays duree="0" nom="Guinée-Bissau"></pays>
+      <pays duree="0" nom="Kenya"></pays>
+      <pays duree="0" nom="Libye"></pays>
+      <pays duree="0" nom="Madagascar"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Mali"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Maroc"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Mauritanie"></pays>
+      <pays duree="0" nom="Mozambique"></pays>
+      <pays duree="0" nom="Namibie"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Niger"></pays>
+      <pays duree="0" nom="Nigéria"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Rwanda"></pays>
+      <pays duree="0" franchophone="Officiel" nom="République Centrafricaine"></pays>
+      <pays duree="0" franchophone="Officiel" nom="République Démocratique du Congo"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Seychelles"></pays>
+      <pays duree="0" nom="Soudan"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Sénégal"></pays>
+      <pays duree="0" nom="Tchad"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Togo"></pays>
+      <pays duree="0" franchophone="Officiel" nom="Tunisie"></pays>
+      <pays duree="0" nom="Égypte"></pays>
+      <pays duree="0" nom="Éthiopie"></pays>
+      <pays duree="0" nom="Île Maurice"></pays>
    </président>
 </liste-présidents>
