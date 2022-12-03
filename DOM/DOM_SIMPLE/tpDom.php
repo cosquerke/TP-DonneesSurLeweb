@@ -21,6 +21,7 @@
 	$racineDocXml = $doc->childNodes[1];
 	$noeudListePersonnes = $racineDocXml->lastChild->childNodes;
 	$noeudListePays = $racineDocXml->childNodes[1]->childNodes;
+	$noeudListeVisite = $racineDocXml->childNodes[3]->childNodes;
 
 	$listePresidents = array();
 
@@ -34,16 +35,21 @@
 	}
 
 	$listePaysVisite = array();
+	$listeLangueByPays = array();
 
 	foreach ($noeudListePays as $pays) {
 		$p = $pays->childNodes;
 		foreach ($p as $node) {
 			if ($node->nodeName == "encompassed" && $node->getAttribute("continent") == "africa") {
 				array_push($listePaysVisite,$pays);
+
+			//	echo $node->nextSibling->nextSibling->nodeName;
 			}
 		}
 
 	}
+
+	//var_dump($listePaysVisite);
 
 	foreach ($listePresidents as $president) {
 		$noeudPresident = $dom->createElement("président");
@@ -54,10 +60,52 @@
 		$idFonction = $president->childNodes[0]->getAttribute('xml:id');
 
 		foreach ($listePaysVisite as $pays) {
-			$noeudVisite = $dom->createElement("pays");
 			$idPays = $pays->getAttribute('xml:id');
 
-			// ECRIRE A PARTIR L37 DE DOM_XPATH/tp.DOM.php
+			$listeVisite = array();
+
+			foreach ($noeudListeVisite as $noeudVisite) {
+			//	var_dump($noeudVisite->getAttribute("debut"));
+				if (($noeudVisite->getAttribute("pays") == $idPays) && ($noeudVisite->getAttribute("personne") == $idFonction)) {
+					array_push($listeVisite,$noeudVisite);
+				}
+			}
+			$duree = 0;
+
+			foreach ($listeVisite as $visite) {
+				$debut = new DateTime($visite->getAttribute("debut"));
+				$fin = new DateTime($visite->getAttribute("fin"));
+				$diff = $debut->diff($fin)->format("%r%a");
+
+				$duree = $duree + intval($diff);
+			}
+			if ($duree == 0) {
+				$df = "0";
+			}else {
+				$df = "P".$duree."D";
+			}
+			$noeudVisite = $dom->createElement("pays");
+			$attributeDuree = new DOMAttr("duree",$df);
+			$noeudVisite->setAttributeNode($attributeDuree);
+
+			$elementsPays = $pays->childNodes;
+			foreach ($elementsPays as $element) {
+				if ($element->nodeName == "language" && $element->nodeValue == "French") {
+					$francophone = "Officiel";
+					if(floatval($element->getAttribute("percentage")) >= 30){
+						$francophone = "Partiel";
+					}
+					$attributeFrancophone = new DOMAttr("francophone",$francophone);
+					$noeudVisite->setAttributeNode($attributeFrancophone);
+				}
+			}
+
+
+			$attributeNom = new DOMAttr("nom",$pays->getAttribute("nom"));
+			$noeudVisite->setAttributeNode($attributeNom);
+
+			$noeudPresident->appendChild($noeudVisite);
+			unset($listeVisite);
 		}
 
 		$racine->appendChild($noeudPresident);
