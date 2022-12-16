@@ -26,9 +26,21 @@
     <xsl:param name = "president" />
     <xsl:element name="pays">
 
-<!--  <xsl:attribute name="duree" select="idref(@xml:id)/..[@personne = $president]/../fn:sum(visite/xs:dayTimeDuration(xs:date(@fin) - xs:date(@debut)))"/> -->
-<xsl:attribute name="duree" select="fn:sum(/déplacements/liste-visites/visite[@pays = current()/@xml:id and @personne = $president]/xs:dayTimeDuration(xs:date(@fin) - xs:date(@debut)))"/>
-<!--<xsl:attribute name="duree" select="/déplacements/liste-visites/visite[@pays = current()/@xml:id and @personne = $president]/concat(@debut,':',@fin)"/> -->
+      <!--  <xsl:attribute name="duree" select="idref(@xml:id)/..[@personne = $president]/../fn:sum(visite/xs:dayTimeDuration(xs:date(@fin) - xs:date(@debut)))"/> -->
+      <xsl:variable name="duree" select="fn:sum(/déplacements/liste-visites/visite[@pays = current()/@xml:id and @personne = $president]/days-from-duration(xs:date(@fin) - xs:date(@debut))) + count(/déplacements/liste-visites/visite[@pays = current()/@xml:id and @personne = $president])"/>
+      <!--<xsl:attribute name="duree" select="/déplacements/liste-visites/visite[@pays = current()/@xml:id and @personne = $president]/concat(@debut,':',@fin)"/> -->
+
+
+      <xsl:choose>
+          <xsl:when test="$duree > 0">
+              <xsl:attribute name="durée" select="concat('P',$duree,'D')"/>
+          </xsl:when>
+          <xsl:otherwise>
+              <xsl:attribute name="durée" select="0"/>
+          </xsl:otherwise>
+      </xsl:choose>
+
+      
   <xsl:apply-templates select="current()/language[./text() = 'French']"/>
       <xsl:attribute name="nom" select="@nom"/>
 
