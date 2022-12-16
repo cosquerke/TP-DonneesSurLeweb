@@ -36,7 +36,7 @@
 			$idPays = $pays->getAttribute('xml:id');
 			$listeVisite = $xpath->query("/déplacements/liste-visites/visite[@pays = '".$idPays."' and @personne = '".$idFonction."']");
 
-			$duree = 0;
+			$duree = count($listeVisite);
 
 			foreach ($listeVisite as $visite) {
 				$debut = new DateTime($visite->getAttribute("debut"));

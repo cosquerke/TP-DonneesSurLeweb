@@ -70,12 +70,18 @@
 					array_push($listeVisite,$noeudVisite);
 				}
 			}
-			$duree = 0;
+			$duree = count($listeVisite);
 
 			foreach ($listeVisite as $visite) {
 				$debut = new DateTime($visite->getAttribute("debut"));
 				$fin = new DateTime($visite->getAttribute("fin"));
 				$diff = $debut->diff($fin)->format("%r%a");
+
+				if ($debut == $fin) {
+					$diff = 1;
+				}else {
+					$diff = $debut->diff($fin)->format("%r%a");
+				}
 
 				$duree = $duree + intval($diff);
 			}
