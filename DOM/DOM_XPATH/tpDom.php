@@ -20,7 +20,7 @@
   $dom->appendChild($racine);
 
 	$listePresidents = $xpath->query("/déplacements/liste-personnes/personne[fonction/@type = 'Président de la République']");
-
+	$listePaysVisite = $xpath->query("/déplacements/liste-pays/pays[encompassed/@continent='africa']");
 /* Création du noeud Président */
 	foreach ($listePresidents as $president) {
 		$noeudPresident = $dom->createElement("président");
@@ -28,7 +28,7 @@
 		$nomPresident = new DOMAttr("nom",$president->getAttribute("nom"));
 		$noeudPresident->setAttributeNode($nomPresident);
 
-		$listePaysVisite = $xpath->query("/déplacements/liste-pays/pays[encompassed/@continent='africa']");
+
 		$idFonction = $president->childNodes[0]->getAttribute('xml:id');
 		foreach ($listePaysVisite as $pays) {
 			$noeudVisite = $dom->createElement("pays");
@@ -41,7 +41,11 @@
 			foreach ($listeVisite as $visite) {
 				$debut = new DateTime($visite->getAttribute("debut"));
 				$fin = new DateTime($visite->getAttribute("fin"));
-				$diff = $debut->diff($fin)->format("%r%a");
+				if ($debut == $fin) {
+					$diff = 1;
+				}else {
+					$diff = $debut->diff($fin)->format("%r%a");
+				}
 
 				$duree = $duree + intval($diff);
 			}
