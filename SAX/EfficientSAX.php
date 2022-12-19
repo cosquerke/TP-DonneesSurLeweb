@@ -157,7 +157,7 @@
       function characters($txt) {
         $txt = trim($txt);
         if (($this->OffLanguageFlag and $txt == "French")) {                    //This part process the countries' language because they are text nodes
-          $this->Pays_language = "officielle";                                  //in addtion to the previously raised flags we need to verify that the
+          $this->Pays_language = "officiel";                                  //in addtion to the previously raised flags we need to verify that the
         }                                                                       //language in the current element is actually 'French' and not something else
         elseif (($this->FrLanguageFlag and $txt == "French")) {                 //if that condition is verified and the flag raised we can save into a property
           $this->Pays_language = "En-Partie";                                   //the status of French in the country
